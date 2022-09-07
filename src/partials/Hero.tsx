@@ -10,20 +10,20 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Tdtt</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          我是加密世界的新人,2021年牛市开始投资多个项目真正接触加密货币.{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
+            Crypto
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          下半年学习K线和各种技术指标开始在币安玩合约,{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+            Futures
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          最近在学习Python和web3相关的课程投资自己.
         </>
       }
       avatar={
